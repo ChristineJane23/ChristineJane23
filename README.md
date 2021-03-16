@@ -12,6 +12,8 @@ Programming takes a lot of patience and hard work, especially for me, since I'm 
 
 Currently, I'm fighting my boredom, programming small tools that can be useful in our workplace. I'm also kind of doing game development in my spare time. Coding and designing games is one of my favorite past time nowadays :D
 
+Also, I'm the assigned Team Leader in our team -- Team Legacy, and I'm currently developing Shopify and Wordpress sites for clients. I'm starting to learn that it's kinda hard to juggle all of your work and hobbies at the same time.
+
 <!---
 ChristineJane23/ChristineJane23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
